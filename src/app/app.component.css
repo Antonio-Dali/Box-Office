@@ -1,0 +1,32 @@
+.faixa-superior {
+    background-color: #007bff; /* Cor de fundo azul */
+    color: #fff; /* Cor do texto branco */
+    padding: 60px 0; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+    position: fixed; /* Fixar na parte superior */
+    top: 0; /* Distância do topo */
+    width: 100%; /* Largura total */
+    height: 80px;
+}
+
+.botoes-container {
+    text-align: center; /* Centralizar os botões horizontalmente */
+    margin-top: 200px; /* Espaçamento superior para separar dos cabeçalhos */
+  }
+  
+  .botao {
+    background-color: #007bff; /* Cor de fundo azul */
+    color: #fff; /* Cor do texto branco */
+    padding: 30px 50px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    border: none; /* Remover borda */
+    border-radius: 5px; /* Adicionar borda arredondada */
+    margin: 50px; /* Margem entre os botões */
+    cursor: pointer; /* Mostrar cursor ao passar por cima */
+  }
+  
+  .botao:hover {
+    background-color: #0056b3; /* Cor de fundo azul escuro ao passar o mouse */
+  }
+
+
